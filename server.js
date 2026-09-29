@@ -36,8 +36,8 @@ try { app.use('/api/inventory', require('./routes/inventory')); } catch (e) { /*
 try { app.use('/api/order-status', require('./routes/order-status')); } catch (e) { /* Persona 7 */ }
 try { app.use('/api/reports', require('./routes/reports')); } catch (e) { /* Persona 8 */ }
 
-// Ruta de fallback para SPA
-app.get('*', (req, res) => {
+// Ruta de fallback para SPA (compatible con Express 4 y 5)
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
