@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Administrador Demo",
+    "email": "admin@empresa.com",
+    "password": "admin123",
+    "role": "admin",
+    "phone": "555-0101"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Mendoza",
+    "email": "carlos@cliente.com",
+    "password": "user123",
+    "role": "client",
+    "phone": "555-0102"
+  }
+]

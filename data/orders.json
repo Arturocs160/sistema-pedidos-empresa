@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1001,
+    "customerName": "Carlos Mendoza",
+    "customerEmail": "carlos@cliente.com",
+    "phone": "555-0102",
+    "address": "Av. Insurgentes 450, Int 3B",
+    "notes": "Timbre no sirve, favor de llamar",
+    "paymentMethod": "efectivo",
+    "status": "Entregado",
+    "createdAt": "2026-09-27T10:30:00.000Z",
+    "items": [
+      {
+        "id": 1,
+        "name": "Café Espresso Doble",
+        "price": 45,
+        "quantity": 2,
+        "subtotal": 90
+      },
+      {
+        "id": 4,
+        "name": "Croissant Francés de Mantequilla",
+        "price": 38,
+        "quantity": 2,
+        "subtotal": 76
+      }
+    ],
+    "subtotal": 166,
+    "tax": 26.56,
+    "total": 192.56
+  },
+  {
+    "id": 1002,
+    "customerName": "María Fernanda",
+    "customerEmail": "maria@cliente.com",
+    "phone": "555-0145",
+    "address": "Calle Reforma 120, Col. Centro",
+    "notes": "Sin hielo la bebida",
+    "paymentMethod": "tarjeta",
+    "status": "En preparación",
+    "createdAt": "2026-09-28T09:15:00.000Z",
+    "items": [
+      {
+        "id": 3,
+        "name": "Té Verde Matcha Latte",
+        "price": 70,
+        "quantity": 1,
+        "subtotal": 70
+      },
+      {
+        "id": 8,
+        "name": "Rebanada de Pastel de Zanahoria",
+        "price": 55,
+        "quantity": 1,
+        "subtotal": 55
+      }
+    ],
+    "subtotal": 125,
+    "tax": 20,
+    "total": 145
+  }
+]
