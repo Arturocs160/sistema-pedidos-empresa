@@ -1,11 +1,11 @@
-# ☕ Sistema Web de Pedidos para Pequeña Empresa
+# Sistema Web de Pedidos para Pequeña Empresa
 
 > **Proyecto de Desarrollo Colaborativo Ágil (8 Desarrolladores)**  
 > Implementación del flujo de valor MVP y módulos de soporte mediante ramas Git independientes e integración continua.
 
 ---
 
-## 📋 1. Matriz de Backlog del Proyecto (8 Personas)
+## 1. Matriz de Backlog del Proyecto (8 Personas)
 
 Construida con base en la **Matriz de Resolución y Orden Lógico** (priorización por dependencias técnicas y entrega temprana de valor MVP):
 
@@ -22,40 +22,40 @@ Construida con base en la **Matriz de Resolución y Orden Lógico** (priorizaci�
 
 ---
 
-## 🌳 2. Estrategia de Ramas Git (Gitflow Colaborativo)
+## 2. Estrategia de Ramas Git (Gitflow Colaborativo)
 
 Cada integrante del equipo trabajó sobre su rama `feat/...` específica, integrándose mediante `--no-ff` (sin avance rápido) a la rama `main` para preservar la trazabilidad completa del proyecto:
 
 ```
-*   merge: Reportes y metricas de ventas (FEAT-08) [Persona 8]
+*   merge: Reportes y metricas de ventas (FEAT-08)
 |\  
 | * feat(FEAT-08): Dashboard de reportes financieros, KPIs y top de productos
 |/  
-*   merge: Seguimiento y despacho de pedidos (FEAT-07) [Persona 7]
+*   merge: Seguimiento y despacho de pedidos (FEAT-07)
 |\  
 | * feat(FEAT-07): Seguimiento de pedidos, estados de entrega y panel de despacho
 |/  
-*   merge: Gestion de inventario (FEAT-06) [Persona 6]
+*   merge: Gestion de inventario (FEAT-06) 
 |\  
 | * feat(FEAT-06): Panel administrativo de inventario y endpoints CRUD
 |/  
-*   merge: Login y autenticacion (FEAT-05) [Persona 5]
+*   merge: Login y autenticacion (FEAT-05) 
 |\  
 | * feat(FEAT-05): Login, control de sesiones, roles de usuario y proteccion
 |/  
-*   merge: Registro de usuarios (FEAT-04) [Persona 4]
+*   merge: Registro de usuarios (FEAT-04) 
 |\  
 | * feat(FEAT-04): Registro de clientes con validaciones y persistencia
 |/  
-*   merge: Procesamiento de pedidos (FEAT-03) [Persona 3]
+*   merge: Procesamiento de pedidos (FEAT-03) 
 |\  
 | * feat(FEAT-03): Procesamiento de pedidos, API POST con descuento de stock
 |/  
-*   merge: Carrito de compras (FEAT-02) [Persona 2]
+*   merge: Carrito de compras (FEAT-02) 
 |\  
 | * feat(FEAT-02): Carrito de compras, calculo de totales e IVA y persistencia
 |/  
-*   merge: Catalogo de productos (FEAT-01) [Persona 1]
+*   merge: Catalogo de productos (FEAT-01) 
 |\  
 | * feat(FEAT-01): Catalogo de productos, API GET con filtros y vista responsiva
 |/  
@@ -64,7 +64,7 @@ Cada integrante del equipo trabajó sobre su rama `feat/...` específica, integr
 
 ---
 
-## 🚀 3. Instrucciones de Ejecución
+##  3. Instrucciones de Ejecución
 
 ### Prerrequisitos
 - Node.js versión 18 o superior.
@@ -86,7 +86,7 @@ Cada integrante del equipo trabajó sobre su rama `feat/...` específica, integr
 
 ---
 
-## 🔐 4. Credenciales de Prueba Disponibles
+##  4. Credenciales de Prueba Disponibles
 
 - **Administrador:**
   - Correo: `admin@empresa.com`
@@ -100,7 +100,7 @@ Cada integrante del equipo trabajó sobre su rama `feat/...` específica, integr
 
 ---
 
-## 🛠️ 5. Estructura del Código Fuente
+##  5. Estructura del Código Fuente
 
 ```
 sistema-pedidos-empresa/
