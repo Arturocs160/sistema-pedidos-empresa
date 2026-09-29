@@ -2,6 +2,7 @@
 
 > **Proyecto de Desarrollo Colaborativo Ágil**  
 > Implementación del flujo de valor MVP y módulos de soporte mediante ramas Git independientes e integración continua.
+'''Jose Ricardo Cruz Aguilar'''
 
 ---
 
