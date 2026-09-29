@@ -22,7 +22,7 @@ Construida con base en la **Matriz de Resolución y Orden Lógico** (priorizaci�
 
 ---
 
-## 2. Estrategia de Ramas Git (Gitflow Colaborativo)
+##  Estrategia de Ramas Git (Gitflow Colaborativo)
 
 Cada integrante del equipo trabajó sobre su rama `feat/...` específica, integrándose mediante `--no-ff` (sin avance rápido) a la rama `main` para preservar la trazabilidad completa del proyecto:
 
@@ -64,43 +64,8 @@ Cada integrante del equipo trabajó sobre su rama `feat/...` específica, integr
 
 ---
 
-##  3. Instrucciones de Ejecución
 
-### Prerrequisitos
-- Node.js versión 18 o superior.
-- Git instalado.
-
-### Pasos para iniciar el servidor
-1. Abrir terminal en la carpeta del proyecto:
-   ```bash
-   cd "C:\Users\aguil\.gemini\antigravity\scratch\sistema-pedidos-empresa"
-   ```
-2. Iniciar el servidor web:
-   ```bash
-   npm start
-   ```
-3. Abrir en el navegador:
-   ```
-   http://localhost:3000
-   ```
-
----
-
-##  4. Credenciales de Prueba Disponibles
-
-- **Administrador:**
-  - Correo: `admin@empresa.com`
-  - Contraseña: `admin123`
-  - *Acceso habilitado a:* Panel de Inventario (P6), Despacho de Pedidos (P7) y Reportes de Ventas (P8).
-
-- **Cliente Registrado:**
-  - Correo: `carlos@cliente.com`
-  - Contraseña: `user123`
-  - *Acceso a:* Catálogo (P1), Carrito (P2), Checkout (P3), Registro de nuevas cuentas (P4) y Rastreo de Pedidos (P7).
-
----
-
-##  5. Estructura del Código Fuente
+##  Estructura del Código Fuente
 
 ```
 sistema-pedidos-empresa/
