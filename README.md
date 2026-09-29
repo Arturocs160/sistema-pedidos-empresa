@@ -1,11 +1,11 @@
 # Sistema Web de Pedidos para Pequeña Empresa
 
-> **Proyecto de Desarrollo Colaborativo Ágil (8 Desarrolladores)**  
+> **Proyecto de Desarrollo Colaborativo Ágil**  
 > Implementación del flujo de valor MVP y módulos de soporte mediante ramas Git independientes e integración continua.
 
 ---
 
-## 1. Matriz de Backlog del Proyecto (8 Personas)
+## 1. Matriz de Backlog del Proyecto 
 
 Construida con base en la **Matriz de Resolución y Orden Lógico** (priorización por dependencias técnicas y entrega temprana de valor MVP):
 
