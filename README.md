@@ -2,9 +2,10 @@
 
 > **Proyecto de Desarrollo Colaborativo Ágil**  
 > Implementación del flujo de valor MVP y módulos de soporte mediante ramas Git independientes e integración continua.
-> **Karla Beatriz Rojas Rojas - Frontend Dev**
+Arturo Castañeda Serrano
+---
 
-## 1. Matriz de Backlog del Proyecto
+## 1. Matriz de Backlog del Proyecto 
 
 Construida con base en la **Matriz de Resolución y Orden Lógico** (priorización por dependencias técnicas y entrega temprana de valor MVP):
 
