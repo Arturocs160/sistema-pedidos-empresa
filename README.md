@@ -3,6 +3,8 @@
 > **Proyecto de Desarrollo Colaborativo Ágil**  
 > Implementación del flujo de valor MVP y módulos de soporte mediante ramas Git independientes e integración continua.
 > Martin Moreno Libreros
+> Cambio de práctica desde main para demostrar resolución de conflictos.
+
 ---
 
 ## 1. Matriz de Backlog del Proyecto 
